@@ -8,7 +8,7 @@ Chat with us on [Slack](https://opencodeiiita.slack.com)
 
 Join Zulip Chat [Zulip](https://opencode.zulipchat.com/)
 
-Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
+Like with us on [Facebook](https://www.facebook.com/opencodeiiita/)
 
 ## About us
 
